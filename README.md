@@ -25,4 +25,3 @@ Pushing to `main` publishes the site through GitHub Pages. Preview `index.html` 
 - [MAQ-Retrieval on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11397447)
 - [Just 32 Tokens on Springer](https://link.springer.com/chapter/10.1007/978-3-032-38082-1_24)
 
-The page layout was inspired by [Edward Hong Wang's website](https://edwardmodelchef.github.io/). The text, images, and implementation here are maintained for Zixuan Xu.
