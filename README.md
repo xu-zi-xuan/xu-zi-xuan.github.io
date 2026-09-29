@@ -12,12 +12,6 @@ Source for [xu-zi-xuan.github.io](https://xu-zi-xuan.github.io/), a single-page 
 | `assets/publications/` | Illustrations for selected publications |
 | `.nojekyll` | Serves the static files directly with GitHub Pages |
 
-## Update the website
-
-Edit `index.html` for text, links, icons, and layout. Replace images in the relevant `assets/` subfolder, keeping the same file name, or update the image path in `index.html` if the name changes. The site uses plain HTML and CSS; there is no build step or package installation.
-
-Pushing to `main` publishes the site through GitHub Pages. Preview `index.html` locally, then check [the public site](https://xu-zi-xuan.github.io/) after the Pages deployment completes.
-
 ## Links used on the page
 
 - [ELEC5514 unit page](https://www.sydney.edu.au/units/ELEC5514)
